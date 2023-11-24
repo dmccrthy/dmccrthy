@@ -2,7 +2,7 @@
   <b>Dan McCarthy</b>
 </h1>
 
-Hi, I'm Dan. I'm currently a  student interested in comuter programming, and networking. Right now I'm working towards a <a href="https://en.wikipedia.org/wiki/CCNA">CCNA</a> and plan to pursue futher education by gettng a computer science degree. I mainly work on different side project I have which you can look at in my repos section. Below I've listed some of my main interests.
+Hi, I'm Dan. I'm currently a student interested in computer programming, and networking. Right now I'm working towards a <a href="https://en.wikipedia.org/wiki/CCNA">CCNA</a> and plan to pursue futher education by gettng a computer science degree. I mainly work on different side project I have which you can look at in my repos section. Below I've listed some of my main interests.
 
 <br>
 
@@ -19,8 +19,8 @@ Hi, I'm Dan. I'm currently a  student interested in comuter programming, and net
 
 <br/>
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dmccrthy&show_icons=true&theme=monokai&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dmccarthy&theme=monokai&hide_border=true" />
+  <img width="49.5%" height="200" src="https://github-readme-stats.vercel.app/api?username=dmccrthy&show_icons=true&hide_border=true&include_all_commits=true" />
+  <img width="49.5%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmccrthy&layout=compact&langs_count=10&hide_border=true" />
   </a>
 </p>
 <br>
