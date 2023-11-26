@@ -23,7 +23,7 @@ Hi, I'm Dan. I'm currently a student interested in computer programming, and net
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dmccrthy&show_icons=true&hide_border=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/dmccrthy">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmccrthy&layout=compact&langs_count=10&hide_border=true&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmccrthy&layout=compact&langs_count=10&hide_border=true&card_width=300" />
 </p>
 <br>
 
