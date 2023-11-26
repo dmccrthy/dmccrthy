@@ -19,9 +19,11 @@ Hi, I'm Dan. I'm currently a student interested in computer programming, and net
 
 <br/>
 <p align="center">
-  <img width="49.5%" height="200" src="https://github-readme-stats.vercel.app/api?username=dmccrthy&show_icons=true&hide_border=true&include_all_commits=true" />
-  <img width="49.5%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmccrthy&layout=compact&langs_count=10&hide_border=true" />
+  <a href="https://github.com/dmccrthy">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dmccrthy&show_icons=true&hide_border=true&include_all_commits=true" />
   </a>
+  <a href="https://github.com/dmccrthy">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmccrthy&layout=compact&langs_count=10&hide_border=true&card_width=320" />
 </p>
 <br>
 
