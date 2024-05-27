@@ -5,7 +5,7 @@
 <br>
 
 <p>
-Hi. My name is Dan and I'm currently a student interested in computer science. I mainly work on different side projects which you can look at in my repos section. As of recently, I've been working with reactive web frameworks like vue and react. You can view my porfolio site built in react <a href="https://www.dmccarthy.org">here</a>.  
+Hi. My name is Dan and I'm currently a student studying computer science. I like to work on different side projects in my freetime which I often upload here on github. As a of recently, I've been learning about reactive web development using frameworks like vue.js and react, and have a porfolio website you can view <a href="https://www.dmccarthy.org">here</a>.  
 </p>
 
 <br />
@@ -23,6 +23,7 @@ Hi. My name is Dan and I'm currently a student interested in computer science. I
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge">
   <img src="https://img.shields.io/badge/Gatsby-639?logo=gatsby&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
 </div>
 
 <br />
@@ -47,11 +48,6 @@ Hi. My name is Dan and I'm currently a student interested in computer science. I
 <h3>
   <b>Thanks for Reading!</b>
 </h3>
-
-| You're Visitor Number | ![Visitor Count](https://profile-counter.glitch.me/dmccrthy/count.svg) | 
-| ------- | ------ |
-  
-</div>
 
 
 <!---
