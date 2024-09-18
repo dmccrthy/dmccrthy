@@ -5,7 +5,7 @@
 <br>
 
 <p>
-Hi. My name is Dan and I'm currently a student studying computer science. I like to work on different side projects in my freetime which I often upload here on github. As a of recently, I've been learning about reactive web development using frameworks like vue.js and react, and have a porfolio website you can view <a href="https://www.dmccarthy.org">here</a>.  
+Hi. My name is Dan and I'm currently a student studying computer science. I like to work on different side projects in my freetime which I often upload here on github. I've listed some of my main interests below, and you can view my porfolio website <a href="https://www.dmccarthy.org">here</a>.  
 </p>
 
 <br />
@@ -14,7 +14,11 @@ Hi. My name is Dan and I'm currently a student studying computer science. I like
   <b>🖥️ My Interests:</b>
 </h1>
 
-<div align="center">
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-006C84?logo=mysql&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -23,7 +27,6 @@ Hi. My name is Dan and I'm currently a student studying computer science. I like
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge">
   <img src="https://img.shields.io/badge/Gatsby-639?logo=gatsby&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
 </div>
 
 <br />
