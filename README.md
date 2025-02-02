@@ -5,7 +5,7 @@
 <br>
 
 <p>
-Hi. My name is Dan and I'm currently a student studying computer science. I like to work on different side projects in my freetime which I often upload here on github. I've listed some of my main interests below, and you can view my porfolio website <a href="https://www.dmccarthy.org">here</a>.  
+Hi. My name is Dan and I'm a software developer from New Hampshire. My main interests are in software development, and cybersecurity, though I also have a lot of experience in IT. I'm pretty active here on github working on various side projects which you can find under my repositories. If you want to get in touch, you can find my contacts on my website <a href="https://dan.sbs">here</a>.  
 </p>
 
 <br />
@@ -19,14 +19,15 @@ Hi. My name is Dan and I'm currently a student studying computer science. I like
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-006C84?logo=mysql&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Gatsby-639?logo=gatsby&logoColor=fff&style=for-the-badge">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Webpack-1D71A2?logo=webpack&logoColor=fff&style=for-the-badge"
 </div>
 
 <br />
