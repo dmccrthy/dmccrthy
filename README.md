@@ -43,7 +43,7 @@ Hi. My name is Dan and I'm a software developer from New Hampshire. My main inte
 
 <div align="center">
   
-| <a href="https://github.com/dmccrthy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dmccrthy&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark_dimmed" /></a> | <a href="https://github.com/dmccrthy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmccrthy&layout=compact&langs_count=10&hide_border=true&theme=github_dark_dimmed" /></a> |
+| <a href="https://github.com/dmccrthy"><img src="https://github-readme-stats.vercel.app/api?username=dmccrthy&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true"></a> | <a href="https://github.com/dmccrthy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmccrthy&layout=compact&langs_count=10&hide_border=true&theme=github_dark_dimmed" /></a> |
 | ------------- | ------------- |
 
 </div>
