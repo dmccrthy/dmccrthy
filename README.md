@@ -3,7 +3,7 @@
 <br>
 
 <p>
-Hi. My name is Dan and I'm a software developer from New Hampshire. My main interests are in software development, and cybersecurity, though I also have a lot of experience in IT. I'm pretty active here on github working on various side projects which you can find under my repositories. If you want to get in touch, you can find my contacts on my website <a href="https://dan.sbs">here</a>.  
+Hi. My name is Dan and I'm a software developer from New Hampshire. My main interests are in software development, and cybersecurity, though I also have a lot of experience in IT. I'm pretty active here on github working on various side projects which you can find under my repositories. If you want to get in touch, you can find my contacts on my website <a href="https://8n1.net">here</a>.  
 </p>
 
 <br />
@@ -33,22 +33,6 @@ Hi. My name is Dan and I'm a software developer from New Hampshire. My main inte
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/Bash-3f3f3f?logo=gnubash&logoColor=fff&style=for-the-badge">
 </div>
-
-<br />
-
-# <b>📊 My Stats:</b>
-
-
-<br/>
-
-<div align="center">
-  
-| <a href="https://github.com/dmccrthy"><img src="https://github-readme-stats.vercel.app/api?username=dmccrthy&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true"></a> | <a href="https://github.com/dmccrthy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmccrthy&layout=compact&langs_count=10&hide_border=true&theme=github_dark_dimmed" /></a> |
-| ------------- | ------------- |
-
-</div>
-
-
 
 <!---
 dmccrthy/dmccrthy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
