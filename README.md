@@ -1,19 +1,20 @@
-# <b>🙂 About Me:</b>
+# <b>about me</b>
 
 <br>
 
 <p>
-Hi. My name is Dan and I'm a software developer from New Hampshire. My main interests are in software development, and cybersecurity, though I also have a lot of experience in IT. I'm pretty active here on github working on various side projects which you can find under my repositories. If you want to get in touch, you can find my contacts on my website <a href="https://8n1.net">here</a>.  
+Hi. My name is Dan and I'm a student from New Hampshire. My main interests are in networking, and cybersecurity, though I spend a lot of my freetime programming. I'm pretty active here on github working on various side projects which you can find under my repositories. If you want to get in touch, you can find my contacts on my website <a href="https://8n1.net">here</a>.  
 </p>
 
 <br />
 
-# <b>🖥️ My Interests:</b>
+# <b>some interests</b>
 
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-888999?logo=c&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
